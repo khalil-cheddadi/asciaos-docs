@@ -1,0 +1,55 @@
+Thank you for signing the NDA, please find below the complete technical documentation for the ASCIA OS project. All materials are strictly confidential under the signed NDA.
+
+═══ PACKAGE CONTENTS ═══
+
+Document 1 — ASCIA OS Vision & functionalities
+[Attached: ASCIA OS – Product Vision & Functional Overview.pdf]
+This is the complete functional specification covering all 18 modules. Please read this document in its entirety before anything else.
+Document 2 — ASCIA OS Technical Architecture
+[Attached: ASCIA_OS_Technical_Architecture.pdf]
+Detailed technical architecture: 5-layer system, all Docker add-ons, BOM, CI/CD pipeline, communication matrix. This document describes HOW the system should be built.
+Document 3 — MVP Feature Register
+[Attached: ASCIA OS – Specifications.pdf]
+A comprehensive technical specification document detailing ASCIA OS system architecture, modules, APIs, infrastructure, security framework, and development standards for engineering and implementation teams.
+Document 4 — UI/UX Design Files
+[Link: https://www.figma.com/design/SpXxqECbOeNg3PLdEr9mKk]
+The UI/UX design is finalized for the end-user-facing interface. screens are open for your team’s proposal (following the established design direction).
+Document 5 — ASCIA Mobile App — Functional & Technical Specifications (Flutter iOS & Android)
+[Attached: ASCIA_Mobile_App_Specifications_en.pdf]
+List of all physical devices available for testing (switches, Zigbee coordinators, cameras, sensors). These devices will be accessible to your team via a secured remote lab once development begins.
+Document 6 — IoT Hardware Reference List
+[Attached: ASCIA_Hardware_Ecosystem.pdf]
+A complete mobile specification defining ASCIA’s Flutter-based iOS and Android app architecture, native integrations, feature modules, and performance requirements.
+
+═══ MVP SCOPE REMINDER ═══
+
+As communicated in our initial message, the following sections are EXCLUDED from the MVP scope:
+Sections 1.3 (Isolated secure network — auto VLAN/firewall)
+Sections 5.3, 5.4, 5.5 (NLP automations, Auto-pilot, Presence simulation)
+Entire Module 6 (Local AI — chatbot, reports, Whisper/LLM infrastructure)
+Sections 7.3, 7.4 (Smart video search, Frigate ML recognition)
+Section 8.2 (UWB system)
+Section 12.3 (Calendar integration)
+Sections 14.1, 14.3, 14.4 (Auto-diagnostic, Self-healing, Tele-diagnostic)
+Section 15.3 (Update management system)
+Section 16.2 (Commute/mobility management)
+Section 17.1 (Intelligent auto-naming system)
+
+Refer to doc : ASCIA OS – Product Vision & Functional Overview.pdf
+
+═══ WHAT WE EXPECT FROM YOU ═══
+
+Please submit a complete proposal 1 for MVP only and 2 for the complete project as described in RFP Section 6, including all 8 deliverables:
+Agency presentation (PDF, 5-10 pages)
+Detailed answers to all 10 technical questions (RFP Section 5)
+Detailed MVP estimation (module by module, hours, profiles, rates)
+Proposed sprint calendar (4-6 months for MVP)
+Contract proposal (payment structure, IP, exit clause, SLA)
+Technical demo (optional but strongly valued)
+
+═══ IMPORTANT NOTES ═══
+
+QUESTIONS: Please send all technical questions within the first 7 days. We will answer
+within 24 hours. We prefer pointed questions over assumptions.
+ALTERNATIVES: If your team has alternative approaches to any specification (tools, architecture, process), please include them in your proposal with clear reasoning. We are open to better solutions.
+DESIGN: The Figma designs cover the customer-facing UI. For configuration/admin screens, you may propose your own approach following the established design language, or request that we handle the design. Please specify your preference in your proposal.;w
